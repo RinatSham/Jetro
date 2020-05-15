@@ -12,6 +12,15 @@ section{
   background-color: yellow;
 }
 
+<<<<<<< HEAD
 .box{
 	background-color: green;
+=======
+.lol{
+  font-size: 17px;
+}
+
+.wrapper{
+  font-weight: normal;
+>>>>>>> 83d2832620e646f822fbc622dd81f8e2074ee747
 }
